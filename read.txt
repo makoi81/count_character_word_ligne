@@ -1,0 +1,5 @@
+Hi guys this is a file 
+in which you can count the
+ number of character, word and ligne. 
+
+
